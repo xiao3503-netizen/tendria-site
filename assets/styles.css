@@ -354,6 +354,12 @@ summary {
     padding-inline: 0.78rem;
   }
 
+  .content-card,
+  .feature-card,
+  .language-card {
+    border: 0;
+  }
+
   .content-card {
     border-radius: 1.45rem;
   }
